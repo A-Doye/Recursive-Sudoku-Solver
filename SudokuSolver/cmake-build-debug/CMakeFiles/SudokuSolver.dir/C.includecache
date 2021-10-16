@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alex/Documents/_UEA/Year 2/Programming 2/SudokuSolver/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
